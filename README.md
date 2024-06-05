@@ -6,4 +6,5 @@ Setting Up personal MonkeyType Readme
 </a>
 
 ## Resource
-[monkeytype-readme](https://github.com/monkeytype-hub/monkeytype-readme/blob/master/README.md)
+- [monkeytype webpage](https://github.com/monkeytypegame/monkeytype)
+- [monkeytype-readme](https://github.com/monkeytype-hub/monkeytype-readme/blob/master/README.md)
